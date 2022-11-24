@@ -8,4 +8,4 @@ hello huan,welcome git
 hello huan,welcome git
 hello huan,welcome git
 hello huan,welcome git master test
-hello huan,welcome git
+hello huan,welcome git hot-fix test
